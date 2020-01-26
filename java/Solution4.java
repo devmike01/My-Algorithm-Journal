@@ -2,7 +2,7 @@
 
 Problem can be found here: https://www.hackerrank.com/challenges/contacts/problem?isFullScreen=true
 
-This solution works but needs some improvements.
+This solution works but its not time efficient hence, it needs some improvements.
 
 **/
 
@@ -15,7 +15,7 @@ import java.util.regex.*;
 public class Solution {
 
     /*
-     * Complete the contacts function below.
+     * My solution
      */
     static int[] contacts(String[][] queries) {
         ArrayList<Integer> ad = new ArrayList();
